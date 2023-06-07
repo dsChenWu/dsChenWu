@@ -25,9 +25,7 @@ Here is my projects with 🏋️python, ⛹️R programming.
    - Link: [Covid_Financial_Model](https://github.com/dsChenWu/Covid_Financail_Model)
 
 ## 📚 Skills
-
-List your key skills or areas of expertise.
-
+Excelent in:
 - Python
 - R
 - SQL
@@ -35,6 +33,7 @@ List your key skills or areas of expertise.
 ![Python](https://img.shields.io/badge/-Python-brightgreen)
 ![R](https://img.shields.io/badge/-R-blue)
 ![RStudio](https://img.shields.io/badge/-RStudio-blue)
+![SQL](https://img.shields.io/badge/-SQL-orange)
 
 ## 📫 How to Reach Me
 
