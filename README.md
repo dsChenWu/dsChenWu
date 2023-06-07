@@ -1,84 +1,29 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm YUCHEN WU</h1>
+<h3 align="center">A passionate data scientist to solve the real worl problems.</h3>
 
-<!--
-**dsChenWu/dsChenWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dschenwu&label=Profile%20views&color=0e75b6&style=flat" alt="dschenwu" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dschenwu" alt="dschenwu" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# YUCHEN WU
+- 🌱 I’m currently learning **Deep Learning**
 
-One-liner describing yourself or your role.
+- 👨‍💻 All of my projects are available at [https://github.com/dsChenWu/My_StanCode_Projects](https://github.com/dsChenWu/My_StanCode_Projects)
 
-## About Me
+- 📫 How to reach me **jasonwu715@gmail.com**
 
-A passionate data scientist to solve the real worl problems.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1blWVBi1-gS7laSrKX1a5IwyOjQgWQEvk/view?usp=drive_link](https://drive.google.com/file/d/1blWVBi1-gS7laSrKX1a5IwyOjQgWQEvk/view?usp=drive_link)
 
-## Education
+- ⚡ Fun fact **I think I am a social guy~**
 
-- Degree/Certificate: Master Degree of International Business
-  - Institution: National Cheng Kung University of International Business
-  - Year: 2021 graduated
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jasonwu0715/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jasonwu0715/" height="30" width="40" /></a>
+</p>
 
-- Degree/Certificate: Name of the degree or certificate
-  - Institution: Name of the institution
-  - Year: Year of completion
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-## Skills
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dschenwu&show_icons=true&locale=en" alt="dschenwu" /></p>
 
-- Skill 1
-- Skill 2
-- Skill 3
-
-## Projects
-
-List the projects you have worked on, providing a brief description of each. Include any relevant links or repositories.
-
-1. Project Name
-   - Description: Brief description of the project
-   - Link: [GitHub Repository](https://github.com/your-username/project-name)
-
-2. Project Name
-   - Description: Brief description of the project
-   - Link: [GitHub Repository](https://github.com/your-username/project-name)
-
-## Work Experience
-
-- Job Title
-  - Company/Organization: Name of the company/organization
-  - Duration: Start and end date of employment
-  - Description: Brief overview of your responsibilities and achievements
-
-- Job Title
-  - Company/Organization: Name of the company/organization
-  - Duration: Start and end date of employment
-  - Description: Brief overview of your responsibilities and achievements
-
-## Certifications
-
-- Certification 1
-  - Issuing Organization: Name of the organization
-  - Year: Year of certification
-
-- Certification 2
-  - Issuing Organization: Name of the organization
-  - Year: Year of certification
-
-## Contact Me
-
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Personal Website: [Your Personal Website](https://yourwebsite.com)
-
-## Fun Fact
-
-Share an interesting or fun fact about yourself.
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dschenwu&" alt="dschenwu" /></p>
