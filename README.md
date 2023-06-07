@@ -16,14 +16,23 @@ A passionate data scientist to solve the real worl problems.
 
 Here is my projects with 🏋️python, ⛹️R programming.
 
-1. StanCode Project
+1. My_StanCode_Project
    - Description: Breakout project.
-   - Link: [StanCode](https://github.com/your-username/project-name)
+   - Link: [My_StanCode_Projects](https://github.com/dsChenWu/My_StanCode_Projects)
 
-2. Project Name
-   - Description: Brief description of the project
-   - Link: [GitHub Repository](https://github.com/your-username/project-name)
+2. Covid_Financial Project
+   - Description: Construct a new finanacial model
+   - Link: [Covid_Financial_Model](https://github.com/dsChenWu/Covid_Financail_Model)
 
+## 📚 Skills
+
+List your key skills or areas of expertise.
+
+- Python
+- R
+- SQL
+
+![Python](https://img.shields.io/badge/-Python-brightgreen)
 
 <h1 align="center">Hi 👋, I'm YUCHEN WU</h1>
 <h3 align="center">A passionate data scientist to solve the real worl problems.</h3>
