@@ -38,19 +38,3 @@ List your key skills or areas of expertise.
 
 - Email: jasonwu715@gmail.com
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jasonwu0715?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVNd%2BzwSuTV6o%2B2i4QROJsw%3D%3D)
-
-
-
-
-<h1 align="center">Hi 👋, I'm YUCHEN WU</h1>
-<h3 align="center">A passionate data scientist to solve the real worl problems.</h3>
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/dsChenWu/My_StanCode_Projects](https://github.com/dsChenWu/My_StanCode_Projects)
-
-- 📫 How to reach me **jasonwu715@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1blWVBi1-gS7laSrKX1a5IwyOjQgWQEvk/view?usp=drive_link](https://drive.google.com/file/d/1blWVBi1-gS7laSrKX1a5IwyOjQgWQEvk/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I am a social guy~**
