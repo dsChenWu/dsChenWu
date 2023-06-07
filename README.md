@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm YUCHEN WU</h1>
 <h3 align="center">A passionate data scientist to solve the real worl problems.</h3>
 
