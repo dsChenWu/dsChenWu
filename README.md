@@ -34,6 +34,14 @@ List your key skills or areas of expertise.
 
 ![Python](https://img.shields.io/badge/-Python-brightgreen)
 
+## 📫 How to Reach Me
+
+- Email: jasonwu715@gmail.com
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jasonwu0715?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVNd%2BzwSuTV6o%2B2i4QROJsw%3D%3D)
+
+
+
+
 <h1 align="center">Hi 👋, I'm YUCHEN WU</h1>
 <h3 align="center">A passionate data scientist to solve the real worl problems.</h3>
 
