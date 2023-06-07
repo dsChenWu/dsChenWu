@@ -33,6 +33,8 @@ List your key skills or areas of expertise.
 - SQL
 
 ![Python](https://img.shields.io/badge/-Python-brightgreen)
+![R](https://img.shields.io/badge/-R-blue)
+![RStudio](https://img.shields.io/badge/-RStudio-blue)
 
 ## 📫 How to Reach Me
 
