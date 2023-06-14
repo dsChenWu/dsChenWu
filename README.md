@@ -3,7 +3,7 @@ A passionate data scientist to solve the real worl problems.
 
 ## 🔭 Currently Working/Learning On
 - 🌱  **Deep Learning**
-- 🍁  **Pytorch**
+- 🍁  **Machine Learning**  
 
 ## 💼 Work Experience
 
@@ -20,9 +20,12 @@ Here is my projects with 🏋️python, ⛹️R programming.
    - Description: Breakout project.
    - Link: [My_StanCode_Projects](https://github.com/dsChenWu/My_StanCode_Projects)
 
-2. Covid_Financial Project
+2. Pandemic Sentiment Project
    - Description: Construct a new finanacial model
-   - Link: [Covid_Financial_Model](https://github.com/dsChenWu/Covid_Financail_Model)
+   - Link: [Pandemic Sentiment Index](https://github.com/dsChenWu/Covid_Financail_Model)
+3. Machine Learning Project
+   - Description: Utilize different dataset and topics to do data analysis and construct the prediction model by different ML models.
+   - Link: [ML Projects](https://github.com/dsChenWu/Pandemic-Sentiment-Index)
 
 ## 📚 Language & Tools
 <h3 align="left">Languages and Tools:</h3>
