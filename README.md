@@ -21,7 +21,7 @@ Here is my projects with 🏋️python, ⛹️R programming.
    - Link: [My_StanCode_Projects](https://github.com/dsChenWu/My_StanCode_Projects)
 
 2. Pandemic Sentiment Project
-   - Description: Construct a new finanacial model
+   - Description: Introduce how to construct a pandemic sentiment model
    - Link: [Pandemic Sentiment Index](https://github.com/dsChenWu/Covid_Financail_Model)
 3. Machine Learning Project
    - Description: Utilize different dataset and topics to do data analysis and construct the prediction model by different ML models.
