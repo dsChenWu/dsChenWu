@@ -25,7 +25,7 @@ Here is my projects with 🏋️python, ⛹️R programming.
    - Link: [Pandemic Sentiment Index](https://github.com/dsChenWu/Covid_Financail_Model)
 3. Machine Learning Project
    - Description: Utilize different dataset and topics to do data analysis and construct the prediction model by different ML models.
-   - Link: [ML Projects](https://github.com/dsChenWu/Pandemic-Sentiment-Index)
+   - Link: [ML Projects](https://github.com/dsChenWu/ML-Project)
 
 ## 📚 Language & Tools
 <h3 align="left">Languages and Tools:</h3>
