@@ -38,13 +38,17 @@ Here is my projects with 🏋️python, ⛹️R programming.
 ## 🎯 Example of my project:
 
 1. Name Search System
-https://github.com/dsChenWu/dsChenWu/assets/115355972/38a7d79c-e785-41c4-b37d-d53a5a99ca31
+
+
+https://github.com/dsChenWu/dsChenWu/assets/115355972/9b95b194-cbfe-4aad-9caf-0b803298a1d3
+
+
+
+
 2. Breakout Game
-https://github.com/dsChenWu/dsChenWu/assets/115355972/e6381da7-0415-41a6-8db6-b657325b721d
 
 
-
-
+https://github.com/dsChenWu/dsChenWu/assets/115355972/ddfc0eb8-fc60-44d1-9507-bfeb9310cc1d
 
 
 
