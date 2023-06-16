@@ -22,7 +22,7 @@ A passionate data scientist to solve the real worl problems.
 Here is my projects with 🏋️python, ⛹️R programming.
 
 1. My_StanCode_Project
-   - Description: Including several software engineering project, such as breakout game, babyname search, wordle game....
+   - Description: Including several software engineering project, such as breakout game, babyname search,  game....
    - Link: [My_StanCode_Projects](https://github.com/dsChenWu/My_StanCode_Projects)
 2. Pandemic Sentiment Project
    - Description: Introduce how to construct a pandemic sentiment model
