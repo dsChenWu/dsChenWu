@@ -19,7 +19,6 @@ Here is my projects with 🏋️python, ⛹️R programming.
 1. My_StanCode_Project
    - Description: Including several software engineering project, such as breakout game, babyname search, wordle game....
    - Link: [My_StanCode_Projects](https://github.com/dsChenWu/My_StanCode_Projects)
-
 2. Pandemic Sentiment Project
    - Description: Introduce how to construct a pandemic sentiment model
    - Link: [Pandemic Sentiment Index](https://github.com/dsChenWu/Covid_Financail_Model)
@@ -35,3 +34,17 @@ Here is my projects with 🏋️python, ⛹️R programming.
 
 - Email: jasonwu715@gmail.com
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jasonwu0715?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVNd%2BzwSuTV6o%2B2i4QROJsw%3D%3D)
+
+## 🎯 Example of my project:
+
+1. Name Search System
+https://github.com/dsChenWu/dsChenWu/assets/115355972/38a7d79c-e785-41c4-b37d-d53a5a99ca31
+2. Breakout Game
+https://github.com/dsChenWu/dsChenWu/assets/115355972/e6381da7-0415-41a6-8db6-b657325b721d
+
+
+
+
+
+
+
