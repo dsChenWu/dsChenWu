@@ -1,5 +1,5 @@
 # Hello, I'm YUCHEN WU 👋
-A passionate data scientist to solve the real worl problems.
+A passionate data scientist to solve the real world problems.
 
 ## 📫 How to Reach Me
 
