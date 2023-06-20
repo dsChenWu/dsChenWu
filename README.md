@@ -19,7 +19,7 @@ A passionate data scientist to solve the real world problems.
 
 ## 🚀 Projects
 
-Here is my projects with 🏋️python, ⛹️R programming.
+Here are my projects with 🏋️python, ⛹️R programming.
 
 1. My_StanCode_Project
    - Description: Including several software engineering project, such as breakout game, babyname search,  game....
