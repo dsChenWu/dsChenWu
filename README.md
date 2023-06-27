@@ -36,7 +36,7 @@ Here are my projects with 🏋️python, ⛹️R programming.
 **1. Name Search System**
 
 
-https://github.com/dsChenWu/dsChenWu/assets/115355972/9b95b194-cbfe-4aad-9caf-0b803298a1d3
+https://github.com/dsChenWu/dsChenWu/assets/115355972/cda54083-ef8c-4abf-b412-ce371311c3ff
 
 
 
